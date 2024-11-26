@@ -1,0 +1,64 @@
+body {
+    background-color: gray;
+}
+
+.divi {
+    justify-content: center;
+    margin-left: 500px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 500px;
+    height: 200px;
+}
+
+.quantite {
+    margin-left: 130px;
+}
+
+.homer {
+    display: flex;
+}
+
+.homer-2 {
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.btn-moins {
+    margin-left: 5px;
+    width: 30px;
+    height: 20px;
+    margin-top: 20px;
+
+}
+
+.quantity-one {
+    margin-left: 10px;
+    width: 30px;
+    height: 20px;
+    margin-top: 20px;
+
+}
+.btn-plus {
+
+    width: 30px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.item-price {
+    font-size: 20px;
+    margin-left: 5px;
+    width: 30px;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.delete-btn {
+    background-color: red;
+    margin-left: 200px;
+    width: 60px;
+    height: 20px;
+    margin-top: 20px;
+}
